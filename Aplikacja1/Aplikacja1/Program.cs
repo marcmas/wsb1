@@ -15,7 +15,9 @@ namespace Aplikacja1
             Pozycja p2 = new Pozycja("D4");
             Figura f = new Pionek(p, Kolor.KOLOR_BIALY);
             Console.WriteLine(f.CzyMoznaPrzesunac(p2));
-
+            Szachownica sz = new Szachownica();
+            sz['A', 1] = "test";
+            Console.WriteLine(sz['A', 1]);
 
         }
     }
