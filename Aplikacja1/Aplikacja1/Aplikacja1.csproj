@@ -47,12 +47,15 @@
     <Compile Include="Figury\Kolor.cs" />
     <Compile Include="Figury\Pionek.cs" />
     <Compile Include="Figury\Pozycja.cs" />
+    <Compile Include="Figury\Szachownica.cs" />
     <Compile Include="Figury\Wieza.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
