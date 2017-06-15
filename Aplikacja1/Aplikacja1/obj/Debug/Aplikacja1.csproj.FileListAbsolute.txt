@@ -1,1 +1,7 @@
 C:\Users\MarcinM\Desktop\wsb2\trunk\Aplikacja1\Aplikacja1\bin\Debug\Aplikacja1.exe.config
+C:\Users\MarcinM\Desktop\wsb1\trunk\Aplikacja1\Aplikacja1\bin\Debug\Aplikacja1.exe.config
+C:\Users\MarcinM\Desktop\wsb1\trunk\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.csprojResolveAssemblyReference.cache
+C:\Users\MarcinM\Desktop\wsb1\trunk\Aplikacja1\Aplikacja1\bin\Debug\Aplikacja1.exe
+C:\Users\MarcinM\Desktop\wsb1\trunk\Aplikacja1\Aplikacja1\bin\Debug\Aplikacja1.pdb
+C:\Users\MarcinM\Desktop\wsb1\trunk\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.exe
+C:\Users\MarcinM\Desktop\wsb1\trunk\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.pdb
