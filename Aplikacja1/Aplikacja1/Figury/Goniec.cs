@@ -8,8 +8,7 @@ namespace Aplikacja1.Figury
 {
     class Goniec : Figura
     {
-        public Goniec(Pozycja pozycja, string kolor)
-            : base(pozycja, kolor)
+        public Goniec(Pozycja pozycja, string kolor) : base(pozycja, kolor)
         {
         }
         public virtual bool CzyMoznaPrzesunac(Pozycja nowaPozycja)
