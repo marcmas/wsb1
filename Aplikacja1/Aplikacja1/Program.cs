@@ -13,10 +13,10 @@ namespace Aplikacja1
         {
             Pozycja p = new Pozycja("B5");
             Pozycja p2 = new Pozycja("D4");
-            Figura f = new Pionek(p, Kolor.KOLOR_BIALY);
+            Figura f = GEN.GenerujFigure(TypFigury.Pionek, p, Kolor.KOLOR_BIALY);
             f.Pozycja = new Pozycja("C2");
             Console.WriteLine(f.CzyMoznaPrzesunac(p2));
-            Szachownica sz = new Szachownica();
+            Szachownica sz = Szachownica.Instancja;
             sz['A', 1] = "test";
             Console.WriteLine(sz['A', 1]);
 
